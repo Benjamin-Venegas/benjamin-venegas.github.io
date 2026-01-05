@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://benjaminvenegas.github.io/sitemap.xml
+Sitemap: https://benjamin-venegas.github.io/sitemap.xml
