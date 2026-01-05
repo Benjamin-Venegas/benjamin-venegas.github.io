@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "Benjamin-Venegas/benjaminvenegas.github.io",
+    "data-repo": "Benjamin-Venegas/benjamin-venegas.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
