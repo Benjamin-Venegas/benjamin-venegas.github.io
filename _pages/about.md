@@ -31,7 +31,8 @@ I graduated from Civil Mathematical Engineering at Universidad de Concepción (U
 
 <p align="right">
   <em>
-    Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.
+    Nothing in life is to be feared, it is only to be understood.<br>
+    Now is the time to understand more, so that we may fear less.
   </em><br>
   — Marie Curie
 </p>
