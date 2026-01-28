@@ -214,10 +214,10 @@
         {% endif %}
       {% endif %}
       {% if entry.PREPRINT %}
-        {% if entry.PREPRINT contains '://' %}
+        <!-- {% if entry.PREPRINT contains '://' %} -->
           <a href="{{ entry.PREPRINT }}" class="btn btn-sm z-depth-0" role="button">PREPRINT</a>
-        {% else %}
-          <a href="{{ entry.PREPRINT | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PREPRINT</a>
+        <!-- {% else %} -->
+        <!-- <a href="{{ entry.PREPRINT | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PREPRINT</a> -->
         {% endif %}
       {% endif %}
       {% if entry.supp %}
