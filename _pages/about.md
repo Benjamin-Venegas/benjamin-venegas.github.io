@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I graduated from Civil Mathematical Engineering at Universidad de Concepción (UdeC), Chile. My dissertation was written under the supervision of [Prof. Snorre Christiansen](https://www.mn.uio.no/math/english/people/aca/snorrec/index.html), titled "On the discretization of Dirac equations in the framework of Finite Element Systems". I'm deeply interested in the symbiosis between Numerical Analysis and other areas of mathematics such as Differential Geometry and Algebraic Topology. More precisely, I work in structure-preserving discretizations of Partial Differential Equations, which includes theories such as Finite Element Exterior Calculus and Finite Element Systems.
+I graduated from Civil Mathematical Engineering at Universidad de Concepción (UdeC), Chile. I wrote my undergraduate dissertation under the supervision of [Prof. Snorre Christiansen](https://www.mn.uio.no/math/english/people/aca/snorrec/index.html), titled <em>"On the discretization of Dirac equations in the framework of Finite Element Systems"<em>. I'm deeply interested in the interplay between Numerical Analysis and other areas of mathematics such as Differential Geometry and Algebraic Topology. More precisely, I work in structure-preserving discretizations of Partial Differential Equations, which includes theories such as Finite Element Exterior Calculus and Finite Element Systems.
 
 <p align="right">
   <em>
