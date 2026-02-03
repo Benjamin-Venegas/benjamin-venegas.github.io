@@ -1,12 +1,8 @@
 {
   "basics": {
     "name": "Benjamín Venegas",
-    <!-- "label": "Scientist", -->
-    "image": prof_pic.jpg,
     "email": "albert@einstein.de",
-    <!-- "phone": "(912) 123-4567", -->
     "url": "https://benjamin-venegas.github.io/",
-    <!-- "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time", -->
     "location": {
       "address": "...",
       "postalCode": "CA 94115",
