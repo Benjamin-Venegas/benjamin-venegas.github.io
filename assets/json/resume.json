@@ -7,8 +7,8 @@
       "address": "...",
       "postalCode": "CA 94115",
       "city": "Concepción",
-      "countryCode": "Chile"
-      <!-- "region": "California" -->
+      "countryCode": "Chile",
+      "region": "California"
     },
     "profiles": [
       {
@@ -109,7 +109,7 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
+      "name": "Zur Elektrody namik bewegter Körper",
       "publisher": "Annalen der Physik",
       "releaseDate": "1905-06-30",
       "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
