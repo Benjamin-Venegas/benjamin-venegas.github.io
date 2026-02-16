@@ -14,33 +14,30 @@
     - title: Civil Mathematical Engineer
       institution: Universidad de Concepción, Concepción, Chile
       year: 2025
-  #    description:
-   #     - Description 1.
-   #     - Description 2.
-   #     - title: Description 3.
-   #       contents:
-   #         - Sub-description 1.
-   #         - Sub-description 2.
-    #- title: Federal teaching diploma
-    #  institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-    #  year: 1900
-    #  description:
-    #    - Description 1.
-    #    - Description 2.
 
-#- title: Experience
-#  type: time_table
-#  contents:
-#    - title: Professor of Theoretical Physics
-#      institution: Institute for Advanced Study, Princeton University
- #     year: 1933 - 1955
- #     description:
- #       - Description 1.
- #       - Description 2.
- #       - title: Description 3.
- #         contents:
- #           - Sub-description 1.
- #           - Sub-description 2.
+- title: Experience
+  type: time_table
+  contents:
+    - title: Part-Time Lecturer
+      institution: Universidad del Bío-Bío (UBB), Chile
+      year: 2026
+      # description:
+        # - Description 1.
+        # - Description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: Part-Time Lecturer
+      institution: Universidad Católica de la Santísima Concepción (UCSC), Chile
+      year: 2026
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
  #   - title: Visiting Professor
  #     institution: California Institute of Technology, Pasadena, California, US
  #     year: 1933
