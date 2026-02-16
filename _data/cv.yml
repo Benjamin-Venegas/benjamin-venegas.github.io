@@ -76,14 +76,14 @@
 #       items:
 #         - Max Planck Medal
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
     - title: Numerical Analysis of PDEs.
+      description: Analysis of Numerical discretizations of boundary value problems coming from fluid flow models in porous media, elasticity, and physical models in general. More specifically, I'm interested in:
       items:
-        - Mixed Finite Element Methods.
-        - Structure-Preserving discretizations.
-        - Finite Element Exterior Calculus.
+        - Mixed Finite Element discretizations.
+        - Structure-Preserving discretizations such as Arnold, Falk and Winther's Finite Element Exterior Calculus and Christiansen's Finite Element Systems.
     # - title: Topic 2.
     #   items:
     #     - Description 1.
