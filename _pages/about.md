@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<div style="text-align: justify;"markdown="1">
+<div style="text-align: justify;" markdown="1">
 
 I graduated from Civil Mathematical Engineering at Universidad de Concepción (UdeC), Chile. I wrote my undergraduate dissertation under the supervision of [Prof. Snorre Christiansen](https://www.mn.uio.no/math/english/people/aca/snorrec/index.html), titled "On the discretization of Dirac equations in the framework of Finite Element Systems".
 
