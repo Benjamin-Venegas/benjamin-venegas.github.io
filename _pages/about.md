@@ -24,16 +24,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<div style="text-align: justify;">
-<p>
+<div style="text-align: justify;"markdown="1">
+
 I graduated from Civil Mathematical Engineering at Universidad de Concepción (UdeC), Chile. I wrote my undergraduate dissertation under the supervision of [Prof. Snorre Christiansen](https://www.mn.uio.no/math/english/people/aca/snorrec/index.html), titled "On the discretization of Dirac equations in the framework of Finite Element Systems".
-</p>
-<p>
+
 During the final three years of my undergraduate studies, I was trained as a Numerical Analyst.  During this period, I was lucky to be mentored by [Prof. Gabriel N. Gatica](https://www.ci2ma.udec.cl/ggatica/index-english.html) in the art of Mixed Finite Element Methods for nonlinear, Banach space-based multiphysics problems---mainly in the field of fluid flow models in porous media. Nowadays, my work consists mainly in combining tools from this traditional method with tools from other areas of math, such as  Algebraic Topology and Differential Geometry, to obtain structure-aware discretisations---so called structure-preserving discretisations---as those derived from Arnold's [Finite Element Exterior Calculus](https://www.cambridge.org/core/journals/acta-numerica/article/finite-element-exterior-calculus-homological-techniques-and-applications/1A2AEB067BCA561D9ED6D674026539B9?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark) and Christiansen's [Finite Element Systems](https://www.cambridge.org/core/journals/acta-numerica/article/topics-in-structurepreserving-discretization/75E8704996960B33D1826FC58A244FC8?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark).
-</p>
-<p>
+
 On a broader level, I'm deeply interested in the interplay between Numerical Analysis, Differential Geometry, Functional Analysis and PDEs, as they study relatively similar phenomena from fundamentally different viewpoints, which I believe to be complementary.
-</p>
+
 </div>
 
 <p align="right">
