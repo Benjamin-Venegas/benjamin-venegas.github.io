@@ -79,14 +79,14 @@
 #       items:
 #         - Max Planck Medal
 
-- title: Research Interests
-  type: nested_list
-  contents:
-    - title: "Numerical Analysis of PDEs.<br><span style='font-size: 0.9rem; font-weight: normal; color: #555;'>Analysis of Numerical discretizations of boundary value problems coming from fluid flow models in porous media, elasticity, and physical models in general. More specifically, I'm interested in:</span>"
-      items:
-       - Mixed Finite Element discretizations.
-       - Structure-Preserving discretizations such as Arnold, Falk and Winther's Finite Element Exterior Calculus and Christiansen's Finite Element Systems.
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+#- title: Research Interests
+#  type: nested_list
+#  contents:
+#    - title: "Numerical Analysis of PDEs.<br><span style='font-size: 0.9rem; font-weight: normal; color: #555;'>Analysis of Numerical discretizations of boundary value problems coming from fluid flow models in porous media, elasticity, and physical models in general. More specifically, I'm interested in:</span>"
+#      items:
+#       - Mixed Finite Element discretizations.
+#       - Structure-Preserving discretizations such as Arnold, Falk and Winther's Finite Element Exterior Calculus and Christiansen's Finite Element Systems.
+#- title: Other Interests
+#  type: list
+#  contents:
+#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
