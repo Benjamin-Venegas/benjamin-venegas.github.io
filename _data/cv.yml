@@ -23,10 +23,10 @@
   type: time_table
   contents:
     - title: Research Assistant
-      institution: GIANuC2 and CMM
+      institution: GIANuC${}^{2}$ and CMM
       year: 2026
       description:
-        - Under the supervition of Dr. Jéssika Camaño.
+        - Under the supervision of Dr. Jéssika Camaño.
         - Supported by ANID-Chile through projec FB210005
     - title: Part-Time Lecturer
       institution: Universidad del Bío-Bío (UBB), Chile
@@ -38,20 +38,20 @@
       institution: George Mason University, Fairfax, VA, US
       year: 2025
       description: 
-        - Supervided by Dr. Harbir Antil.
+        - Supervised by Dr. Harbir Antil.
         - Research on Rockafellian relaxation for PDECO under uncertainty in form of risk measures.
     - title: Research Assistant
-      institution: CI2MA
-      year: 2026
+      institution: CI${}^{2}$MA
+      year: 2025
       description: 
-        - Under the supervition of Dr. Gabriel N. Gatica.  
+        - Under the supervision of Dr. Gabriel N. Gatica.  
         - Supported by ANID-Chile through project Anillo DSalt (ACT210087). 
     - title: Research Stay
       institution: Simon Fraser University, Vancouver, BC, Canada
       year: 2024
       description: 
         - Supervised by Drs. Razvan Fetecau and Steve Ruuth.
-        - Research on the $p$-Laplace and $\infty$-Laplace equations and their associated eigenvalue problems in surfaces, with focus on the limiting behavior of the first eigenvalue.
+        - Research on the $p$-Laplace eigenvalue problems in surfaces, with focus on the limiting behavior ($p\to\infty$) of the first eigenvalue.
 
  #   - title: Visiting Professor
  #     institution: California Institute of Technology, Pasadena, California, US
