@@ -23,11 +23,10 @@
   type: time_table
   contents:
     - title: Research Assistant
-      institution: GIANuC${}^{2}$ and CMM
+      institution: GIANuC${}^{2}$ and Centro de Modelamiento Matemático (CMM)
       year: 2026
       description:
-        - Under the supervision of Dr. Jéssika Camaño.
-        - Supported by ANID-Chile through projec FB210005
+        - Supported by ANID-Chile through projec FB210005, under the supervision of Dr. Jéssika Camaño.
     - title: Part-Time Lecturer
       institution: Universidad del Bío-Bío (UBB), Chile
       year: 2026
@@ -44,8 +43,7 @@
       institution: CI${}^{2}$MA
       year: 2025
       description: 
-        - Under the supervision of Dr. Gabriel N. Gatica.  
-        - Supported by ANID-Chile through project Anillo DSalt (ACT210087). 
+        - Supported by ANID-Chile through project Anillo DSalt (ACT210087), under the supervision of Dr. Gabriel N. Gatica.   
     - title: Research Stay
       institution: Simon Fraser University, Vancouver, BC, Canada
       year: 2024
