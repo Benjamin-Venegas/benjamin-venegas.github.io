@@ -26,7 +26,7 @@ latest_posts:
 
 <div style="text-align: justify;" markdown="1">
 
-<!-- I'm currently starting a DPhil in Mathematics at University of Oxford (Somerville college), under the supervision of Prof. Kaibo Hu... -->
+<!-- I'm currently starting a DPhil in Mathematics at University of Oxford (Somerville college), under the supervision of Prof. Kaibo Hu...  -->
 
 I graduated from Civil Mathematical Engineerjing at Universidad de Concepción (UdeC), Chile. I wrote my undergraduate dissertation under the supervision of [Prof. Snorre Christiansen](https://www.mn.uio.no/math/english/people/aca/snorrec/index.html), titled ["On the discretization of Dirac equations in the framework of Finite Element Systems"](https://repositorio.udec.cl/server/api/core/bitstreams/03b0c59b-14a4-4b8b-9055-f6650849aacf/content).
 
