@@ -405,16 +405,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-was-featured-in-this-article-due-to-a-2-month-research-stay-i-made-with-my-friend-alonso-to-george-mason-university-fairfax-va-us",
-          title: 'I was featured in this article due to a 2-month research stay I...',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-i-was-featured-in-this-article-due-to-a-2-month-research-stay-i-made-with-my-friend-alonso-to-george-mason-university-fairfax-va-us",
+          title: 'I was featured in this article due to a 2-month research stay I...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
