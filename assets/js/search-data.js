@@ -405,8 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-news-1",
-          title: 'news 1',
+            },},{id: "news-i-was-featured-in-this-article-due-to-a-2-month-research-stay-i-made-with-my-friend-alonso-to-george-mason-university-fairfax-va-us",
+          title: 'I was featured in this article due to a 2-month research stay I...',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
