@@ -410,11 +410,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-was-featured-in-this-article-due-to-a-2-month-research-stay-i-made-with-my-friend-alonso-to-george-mason-university-fairfax-va-us",
+            },},{id: "news-i-was-featured-in-this-article-due-to-a-2-month-research-stay-i-made-with-my-friend-alonso-to-george-mason-university-fairfax-va-us",
           title: 'I was featured in this article due to a 2-month research stay I...',
+          description: "",
+          section: "News",},{id: "news-i-was-interviewed-for-this-article-as-the-result-of-together-with-alonso-taking-on-the-organization-of-sanmoma-a-series-of-numerical-analysis-seminars-supported-by-ci-2-ma-after-years-of-being-on-hold-due-to-the-pandemic",
+          title: 'I was interviewed for this article as the result of—together with Alonso—taking on...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
