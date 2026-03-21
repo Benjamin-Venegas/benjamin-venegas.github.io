@@ -468,7 +468,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%62%65%76%65%6E%65%67%61%73%32%30%32%30@%75%64%65%63.%63%6C", "_blank");
+          window.open("mailto:%62%65%6E%6A%61%6D%69%6E.%76%65%6E%65%67%61%73@%75%63%73%63.%63%6C", "_blank");
         },
       },{
         id: 'social-inspire',
@@ -492,6 +492,13 @@ ninja.data = [{
           window.open("", "_blank");
         },
       },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/(https://www.researchgate.net/profile/Benjamin-Venegas-5?ev=hdr_xprf)/", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
@@ -503,7 +510,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=CsRo6ToAAAAJ", "_blank");
         },
       },{
         id: 'social-custom_social',
