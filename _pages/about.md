@@ -1,6 +1,6 @@
 ---
 layout: about
-title: 
+title: abput
 permalink: /about/
 subtitle: <!-- <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc. -->
 
