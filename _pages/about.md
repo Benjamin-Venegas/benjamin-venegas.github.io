@@ -1,7 +1,7 @@
 ---
 layout: about
-title: abput
-permalink: /about/
+title: 
+permalink: /
 subtitle: <!-- <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc. -->
 
 profile:
