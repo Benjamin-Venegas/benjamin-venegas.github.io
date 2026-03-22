@@ -405,11 +405,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-was-featured-in-this-article-due-to-a-2-month-research-stay-i-made-with-my-friend-alonso-to-george-mason-university-fairfax-va-us",
+            },},{id: "news-a-news-article-about-a-research-stay-i-made-at-simon-fraser-university-vancouver-under-the-supervision-of-profs-razvan-fetecau-and-steven-ruuth",
+          title: 'A news article about a research stay I made at Simon Fraser University,...',
+          description: "",
+          section: "News",},{id: "news-i-was-featured-in-this-article-due-to-a-2-month-research-stay-i-made-with-my-friend-alonso-to-george-mason-university-fairfax-va-us",
           title: 'I was featured in this article due to a 2-month research stay I...',
           description: "",
-          section: "News",},{id: "news-i-was-interviewed-for-this-article-as-the-result-of-together-with-alonso-taking-on-the-organization-of-sanmoma-a-series-of-numerical-analysis-seminars-supported-by-ci-2-ma-after-years-of-being-on-hold-due-to-the-pandemic",
-          title: 'I was interviewed for this article as the result of—together with Alonso—taking on...',
+          section: "News",},{id: "news-i-was-interviewed-for-this-article-here-in-spanish-as-the-result-of-together-with-alonso-taking-on-the-organization-of-sanmoma-a-series-of-numerical-analysis-seminars-supported-by-ci-2-ma-after-years-of-being-on-hold-due-to-the-pandemic",
+          title: 'I was interviewed for this article (here in spanish) as the result of—together...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
