@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The \textit{a posteriori} [article](https://noticias.udec.cl/estudiantes-de-ingenieria-civil-matematica-udec-realizaron-estadia-en-universidad-estadounidense/) of our visit to GMU, Fairfax, VA.
+The _a posteriori_ [article](https://noticias.udec.cl/estudiantes-de-ingenieria-civil-matematica-udec-realizaron-estadia-en-universidad-estadounidense/) of our visit to GMU, Fairfax, VA.
