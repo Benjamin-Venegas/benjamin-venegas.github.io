@@ -28,7 +28,7 @@ latest_posts:
 
 <!-- I'm currently starting a DPhil in Mathematics at University of Oxford (Somerville college), under the supervision of Prof. Kaibo Hu...  -->
 
-I graduated from Civil Mathematical Engineerjing at Universidad de Concepción (UdeC), Chile. I wrote my undergraduate dissertation under the supervision of [Prof. Snorre Christiansen](https://www.mn.uio.no/math/english/people/aca/snorrec/index.html), titled ["On the discretization of Dirac equations in the framework of Finite Element Systems"](https://repositorio.udec.cl/server/api/core/bitstreams/03b0c59b-14a4-4b8b-9055-f6650849aacf/content).
+I graduated from Civil Mathematical Engineering at Universidad de Concepción (UdeC), Chile. I wrote my undergraduate dissertation under the supervision of [Prof. Snorre Christiansen](https://www.mn.uio.no/math/english/people/aca/snorrec/index.html), titled ["On the discretization of Dirac equations in the framework of Finite Element Systems"](https://repositorio.udec.cl/server/api/core/bitstreams/03b0c59b-14a4-4b8b-9055-f6650849aacf/content).
 
 During the final three years of my undergraduate studies, I was trained as a Numerical Analyst.  Throughout this period, I was lucky to be mentored by [Prof. Gabriel N. Gatica](https://www.ci2ma.udec.cl/ggatica/index-english.html) in the art of Mixed Finite Element Methods, especially for Banach spaces-based formulations of nonlinear multiphysics problems arising in fluid flow models in porous media.
 
