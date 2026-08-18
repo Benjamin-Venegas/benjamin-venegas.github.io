@@ -49,6 +49,9 @@ ninja.data = [{
           section: "News",},{id: "news-the-a-posteriori-article-of-our-visit-to-gmu-fairfax-va",
           title: 'The a posteriori article of our visit to GMU, Fairfax, VA.',
           description: "",
+          section: "News",},{id: "news-i-attended-the-cimpa-school-numerical-analysis-of-pdes-in-rosario-amp-amp-buenos-aires-argentina-where-i-also-presented-a-poster-i-was-featured-in-this-article-about-the-school",
+          title: 'I attended the CIMPA School: Numerical Analysis of PDEs, in Rosario &amp;amp;amp; Buenos...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
