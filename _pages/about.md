@@ -3,8 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: <!-- <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc. -->
-nav: true
-nav_order: 1
+nav: false
+nav_order: 0
 
 profile:
   align: right
