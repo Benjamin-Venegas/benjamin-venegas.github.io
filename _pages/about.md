@@ -48,7 +48,7 @@ On a broader level, I'm deeply interested in the interplay between Numerical Ana
   — Marie Curie
 </p>
 
-I'm always happy to discuss these topics and maths in general. You can contact me at <a href="mailto:benjamin.venegassolis@pmb.ox.ac.uk">benjamin.venegassolis@pmb.ox.ac.uk</a>.
+I'm always happy to discuss these topics and maths in general. You can contact me at <a href="mailto:benjamin.venegassolis@maths.ox.ac.uk">benjamin.venegassolis@maths.ox.ac.uk</a>.
 
 
 <!--
