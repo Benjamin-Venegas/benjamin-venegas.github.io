@@ -11,7 +11,7 @@ nav_order: 2
 In the following, I comment about some of my research interests. The viewpoint is that of an insider when possible, and that of a spectator where not.
 
 
-<strong>Finite Element Systems (FES)</strong>
+<strong>Finite Element Systems [(FES)]Finite Element Systems](https://www.cambridge.org/core/journals/acta-numerica/article/topics-in-structurepreserving-discretization/75E8704996960B33D1826FC58A244FC8?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)</strong>
 
 A categorical approach to finite elements, proposed by [Snorre Christiansen](https://www.mn.uio.no/math/english/people/aca/snorrec/index.html).  The main idea is that assigning a FE space to each cell of the underlying cellular complex (mesh) gives a combinatorial structure, facilitating inductive and algebraic constructions and simplifying proofs. This elucidates that some usual procedures in finite elements, such as gluing local spaces to obtain global FE spaces or the classical unisolvency of degrees of freedom, are particular instances of more general concepts already known in the categorical setting. The framework also takes cohomology into account naturally, which aids the design of compatible spaces. The local-to-global passage in the former example concerns the notion of sheaves and, more concretely, a glued space is an instance of an inverse limit.
 
