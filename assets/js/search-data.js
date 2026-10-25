@@ -52,6 +52,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-attended-the-cimpa-school-numerical-analysis-of-pdes-in-rosario-amp-amp-buenos-aires-argentina-where-i-also-presented-a-poster-i-was-featured-in-this-article-about-the-school",
           title: 'I attended the CIMPA School: Numerical Analysis of PDEs, in Rosario &amp;amp;amp; Buenos...',
           description: "",
+          section: "News",},{id: "news-our-paper-a-perturbed-threefold-saddle-point-formulation-yielding-new-mixed-finite-element-methods-for-poroelasticity-with-reduced-symmetry-with-alonso-bustos-gabriel-gatica-and-ricardo-ruiz-baier-was-accepted-for-publication-in-esaim-m2an",
+          title: 'Our paper A perturbed threefold saddle-point formulation yielding new mixed finite element methods...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
