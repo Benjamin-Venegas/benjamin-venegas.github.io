@@ -21,3 +21,9 @@ However, I have tried to elaborate and formalise ideas drawing on the relevant r
 In addition, I have added my own perspective whenever it seemed helpful for my own
 understanding. [In process..]
 </em>
+
+3. [Smoothed Projections - University of Oxford FEM reading group](/assets/pdf/Smoothed%20projections%20in%20FEM%20reading%20group.pdf)<br>
+<em>
+ This material was written for a presentation I gave at the [Oxford FEM reading group](https://borisandrews.github.io/reading-group/). It is a brief note describing the motivation and construction of smoothed projections, which constitute a type of quasi-interpolation that provide cochain projections enjoying optimal approximation properties that are uniformly stable $\mathrm L^2\to \mathrm L^2$. According to the general theory of Finite Element Exterior Calculus, these properties ensure convergence and stability of Hodge-Laplace problems, as well as eigenmode convergence and improved convergence rates for the mixed Hodge Laplacian problem. For pedagogical reasons, we do not employ the language of exterior calculus, but rather stick to standard vector calculus, thus relying on classical finite element spaces such as lowest order Lagrange and Raviart-Thomas elements.
+
+</em>
